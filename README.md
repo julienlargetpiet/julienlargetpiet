@@ -28,11 +28,9 @@
     <div class="projects">
       <div class="card">
         <h4>🌐 Website</h4>
-        <p>My personal site hosted at <a href="https://julienlargetpiet.tech">julienlargetpiet.tech</a></p>
+        <p>I run a blog at <a href="https://julienlargetpiet.tech">julienlargetpiet.tech</a></p>
       </div>
       <div class="card">
-        <h4>⚡ Rust HTTP Server</h4>
-        <p>A fast, multithreaded server written in Rust.</p>
       </div>
       <div class="card">
         <h4>📦 More Coming</h4>
