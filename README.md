@@ -2,7 +2,6 @@
     <h1>Julien Largetpiet</h1>
     <nav>
       <a href="#about">About</a>
-      <a href="#projects">Projects</a>
       <a href="#contact">Contact</a>
     </nav>
   </header>
@@ -24,7 +23,6 @@
   </section>
 
   <section id="projects">
-    <h3>Projects</h3>
     <div class="projects">
       <div class="card">
         <h4>🌐 Website</h4>
