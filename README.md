@@ -17,7 +17,7 @@
   <section id="about">
     <h3>About Me</h3>
     
-    <p>I’m passionate about <b>programming</b> and always excited to explore new languages and <b>paradigms</b>. My journey in coding has given me a deep appreciation for <b>functional programming</b>, especially Haskell, which has shaped the way I approach problems with elegance and precision.</p>
+<p>I’m passionate about <b>programming</b> and always excited to explore new languages and <b>paradigms</b>. My journey in coding has given me a deep appreciation for <b>functional programming</b>, especially Haskell, which has shaped the way I approach problems with elegance and precision.</p>
 
 <p><b>Mathematics</b> has always been close to my heart, and through programming, I’ve delved into areas like <b>graph theory, number theory, set theory, statistics and Machine Learning</b>. This mathematical curiosity naturally extends to machine learning, where I enjoy experimenting with C++, R, and Python to build models and analyze data.</p>
 
