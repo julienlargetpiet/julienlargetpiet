@@ -28,7 +28,7 @@
     <div class="projects">
       <div class="card">
         <h4>🌐 Website</h4>
-        <p>My personal site hosted at julienlargetpiet.tech</p>
+        <p>My personal site hosted at <a href="https://julienlargetpiet.tech">julienlargetpiet.tech</a></p>
       </div>
       <div class="card">
         <h4>⚡ Rust HTTP Server</h4>
