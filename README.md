@@ -9,8 +9,7 @@
   <section class="hero">
     <div class="hero-content">
       <h2>Hello, I'm Julien 👋</h2>
-      <p>Developer • Builder • Tech Enthusiast</p>
-      <a href="#projects" class="btn">See My Work</a>
+      <p>Developper • Maths Enthusiast</p>
     </div>
   </section>
 
