@@ -9,7 +9,7 @@
   <section class="hero">
     <div class="hero-content">
       <h2>Hello, I'm Julien 👋</h2>
-      <p>Developper • Maths Enthusiast</p>
+      <p>Competitive Programmer • Maths & Algo Enthusiast</p>
     </div>
   </section>
 
