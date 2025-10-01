@@ -14,6 +14,10 @@
     </div>
   </section>
 
+<h4>🌐 Website</h4>
+<p>I run a blog at <a href="https://julienlargetpiet.tech">julienlargetpiet.tech</a></p>
+
+
   <section id="about">
     <h3>About Me</h3>
     
@@ -28,22 +32,7 @@
 <p>I’m endlessly curious and love experimenting with new frameworks and technologies. For me, programming is not just a skill, it’s a playground for exploration, problem-solving, and continuous learning.</p>
     
   </section>
-
-  <section id="projects">
-    <div class="projects">
-      <div class="card">
-        <h4>🌐 Website</h4>
-        <p>I run a blog at <a href="https://julienlargetpiet.tech">julienlargetpiet.tech</a></p>
-      </div>
-      <div class="card">
-      </div>
-      <div class="card">
-        <h4>📦 More Coming</h4>
-        <p>Stay tuned for more projects!</p>
-      </div>
-    </div>
-  </section>
-
+ 
   <section id="contact">
     <h3>Contact</h3>
     <p>Feel free to reach out to me:</p>
