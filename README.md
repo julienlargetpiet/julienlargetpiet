@@ -44,7 +44,7 @@
   </section>
 
   <footer>
-    <p>© 2025 Julien Largetpiet | Built with ❤️</p>
+    <p>© 2025 Julien Larget-Piet | Built with ❤️</p>
   </footer>
 
 
