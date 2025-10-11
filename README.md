@@ -37,7 +37,7 @@
     <p>Feel free to reach out to me:</p>
     <p>
       <a href="mailto:julien@example.com">📧 Email</a> |
-      <a href="https://github.com/julienlargetpiet" target="_blank">💻 GitHub</a> |
+      <a href="https://github.com/julien-larget-piet" target="_blank">💻 GitHub</a> |
       <a href="https://www.linkedin.com/in/julienlargetpiet" target="_blank">🔗 LinkedIn</a> |
       <a href="https://www.reddit.com/user/Medical-Common1034/"> Reddit </a>
     </p>
